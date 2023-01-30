@@ -1,1 +1,2 @@
-# js-automation
+# JS AUTOMATION COURSES
+# IT-ACADEMY
