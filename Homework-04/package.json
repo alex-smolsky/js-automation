@@ -1,0 +1,14 @@
+{
+  "name": "homework-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Lesson04-Homework.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.1.0"
+  }
+}
