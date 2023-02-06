@@ -23,7 +23,6 @@ function divide2(k, n, res = []){
 
 }
 
-// Third variant
 function divide3(k, n, res = []){
     console.log(`dividing number ${k} to ${n} parts`)
     if (n === 1){
